@@ -33,7 +33,7 @@ Since our budget is low, for now I need only basic functionality.
     - a search bar must have a cookie that tracks the previous search you had
 3. Menu bar
 4. Login and registration button
-5. I made some fast drawings, but it is not necessary product should look exactly like that [example for guest](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_guest.png) and [example for user](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_user.png)
+5. I drew some sketches, but it is not necessary that product should look like that [example for guest](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_guest.png) and [example for user](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_user.png)
 
 ### Login page
 
@@ -97,4 +97,4 @@ Since our budget is low, for now I need only basic functionality.
 
 > on the list of requirements provided above, it is up to you what other things to add that will be greatly used
 
-> on scetches provided, im not very great artist, they are not perfect and I do believe you can do better
+> on sketches provided, im not very great artist, they are not perfect and I do believe you can do better
