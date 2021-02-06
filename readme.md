@@ -33,6 +33,7 @@ Since our budget is low, for now I need only basic functionality.
     - a search bar must have a cookie that tracks the previous search you had
 3. Menu bar
 4. Login and registration button
+5. I made some fast drawings, but it is not necessary product should look exactly like that [example for guest](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_guest.png) and [example for user](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Landing_page_user.png)
 
 ### Login page
 
@@ -51,6 +52,7 @@ Since our budget is low, for now I need only basic functionality.
 - must have description
 - users can leave reviews
 - users can rate book
+- [example of single book](https://raw.githubusercontent.com/mc0de/laravel-portfolio-shop-task/master/Singe_book.png)
 
 ### User Account
 
@@ -70,9 +72,11 @@ Since our budget is low, for now I need only basic functionality.
 # Part 2 (TBD)
 
 - warehouse management
-- email notifications
+- email notifications on events
 - orders
 - probably Stripe API and payment handling
+- performance testing with 10k+ seeds and advanced eloquent
+- more advanced filters for listing
 
 ### Technologies to be used
 - laravel
@@ -85,7 +89,7 @@ Since our budget is low, for now I need only basic functionality.
 ### Notes
 > Very important that i could show something to my colleagues on what we are working as soon as possible (can bee screenshot of front page or link, can be non functional). this may lead to better financing and extending project in the future. impress us.
 
-> there are particular books i would like to see listed first at launch, so im attaching them in an archive. i was a bit in a hurry so photos might be inconsistent, rotate and crop them if needed to covers in listing look nice.
+> there are particular books i would like to see listed first at launch, so im attaching them in an [archive](https://github.com/mc0de/laravel-portfolio-shop-task/raw/master/books.zip). i was a bit in a hurry so photos might be inconsistent, rotate and crop them if needed to covers in listing look nice.
 
 > it is up to you on designing responsive website
 
